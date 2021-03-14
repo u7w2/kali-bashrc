@@ -1,3 +1,4 @@
+<addr>
 case $- in
     *i*) ;;
       *) return;;
@@ -78,3 +79,4 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+</addr>
